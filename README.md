@@ -68,14 +68,11 @@ The dataset used contains details like:
 ## 🧑‍💻 Author
 
 **Bharani Kodam**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-🌐 [Portfolio or Blog, if any]
+📧 [Bharanikodam71@gmail.com]  
+🔗 [BharaniKodam]  
 
 ---
 
-## 📜 License
 
-This project is open-source under the [MIT License](LICENSE).
 
 
